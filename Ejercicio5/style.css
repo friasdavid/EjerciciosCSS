@@ -1,0 +1,32 @@
+#Formulario {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 20px;
+}
+
+.Label {
+    font-weight: bolder;
+    float: left;
+    width: 100px;
+    padding-right: 30px;
+}
+
+.Button {
+    background-color: blue;
+    color: white;
+    border:none;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 15;
+
+}
+
+.Container-Button {
+    text-align: center;
+}
+
+.Button:hover {
+    cursor: pointer;
+    background-color: lightblue;
+}
